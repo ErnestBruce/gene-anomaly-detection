@@ -5,5 +5,5 @@ scikit-learn
 plotly
 matplotlib
 seaborn
-gzip
-StringIO
+
+
